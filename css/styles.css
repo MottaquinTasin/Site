@@ -84,7 +84,7 @@ span {
 .mountain {
   height: 90%;
 
-  position: static;
+  position: relative;
   bottom: -168px;
   left: 320px;
 }
